@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Playing with EJS.bootstrap",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016\u0016\u0016\u0016https://github.com/hanifmusa96/nodejs.portfolio"
+  },
+  "author": "Muhammad HAnif\u001b[D\u001b[D\u001b[a\u001b[C\u001b[C\u001b[C",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
